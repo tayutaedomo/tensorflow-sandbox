@@ -1,5 +1,5 @@
 jupyter==1.0.0
-tensorflow==2.0.0
+tensorflow==2.2.0
 Pillow==7.1.2
 scipy==1.4.1
 optuna==1.5.0
