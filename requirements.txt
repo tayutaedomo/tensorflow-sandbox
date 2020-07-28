@@ -10,4 +10,5 @@ Pillow==7.1.2
 graphviz==0.14.1
 pydot==1.4.1
 opencv-python==4.3.0.36
+tensorflow-addons==0.10.0
 
